@@ -1,0 +1,16 @@
+{
+  "data": [
+    {
+      "nama": "faikar",
+      "usia": 25
+    },
+    {
+      "nama": "halo",
+      "usia": "27"
+    },
+    {
+      "nama": "",
+      "usia": ""
+    }
+  ]
+}

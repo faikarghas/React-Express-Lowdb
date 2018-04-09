@@ -1,0 +1,25 @@
+body{
+  background-color: rgb(255, 255, 255);
+}
+
+div{
+  border-top: none !important;
+}
+
+.input-lg{
+    width: 565px;
+}
+
+table,tr,th,td{
+  border: 2px solid black;
+  /* padding: 10px; */
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 5px;
+  padding-bottom: 5px;      
+}
+
+.marginn{
+  margin-top: 260px;
+  
+}
